@@ -9,6 +9,9 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"New (1).yml","metaData":{}}
+files[] = {"path":"New.yml","metaData":{}}
 files[] = {"path":"openapi.yml","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3
